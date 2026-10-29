@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://restauracja-na-komunie-wroclaw.pl/sitemap.xml
